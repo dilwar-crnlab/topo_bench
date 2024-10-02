@@ -13,6 +13,6 @@ Analysis of Real and Synthetic Optical Network Topologies
 |-------------------------|----------------------------------------------------------------|-----------|----------|
 | correlation             | Summary stats, correlations and outliers of graph metrics associated with real topologies    | Real      | Added ✅ | 
 | clustering              | Computes the clustering on 105 real topologies using k means and SVM | Real      | Added ✅ | 
-| generation              | Generates the topology using SNR BA model | Synthetic-small | Pending 💻 | 
+| generation              | Generates the topology using SNR BA model | Synthetic-small | Closed Source | 
 | analysis                | Structural, physical and spectral analysis of real and synthetic topologies |  Synthetic-small | Pending 💻 | 
 | analysis                | Analysis of large dataset | Synthetic-large | Pending 💻  |
