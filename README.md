@@ -17,6 +17,14 @@ Analysis of Real and Synthetic Optical Network Topologies
 | analysis                | Structural, physical and spectral analysis of real and synthetic topologies |  Synthetic-small | Pending 💻 | 
 | analysis                | Analysis of large dataset | Synthetic-large | Pending 💻  |
 
+
+If you would like a quick summary of the paper, here is the poster presentatation at TOP conference: 
+
+![final poster top 2025 (1)](https://github.com/user-attachments/assets/73ec4010-44b3-45cb-9bf7-23e1c541b45f)
+
+
+
+
 If you use any of the data provided, please cite our paper:
 ```
 @article{matzner2024topology,
